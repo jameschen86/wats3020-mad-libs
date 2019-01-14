@@ -1,48 +1,49 @@
-let honorific = prompt('Please enter an honorific title.',"Master");
 
-let authorName = prompt('What is your full name?',"John Doe");
+let honorific = prompt('Please enter an honorific title.','Master');
 
-let adjuective1 = prompt('Describe something with an adjective.',"odd");
+let authorName = prompt('What is your full name?','John Doe');
 
-let vehicle = prompt('Pick a type of vehicle.',"spaceship");
+let adjective1 = prompt('Describe something with an adjective.','odd');
 
-let vehiclePart = prompt('Name a part from your vehicle.',"hyper-truster");
+let vehicle = prompt('Pick a type of vehicle.','spaceship');
 
-let parking = prompt('Name a location for vehicle to park.',"mars");
+let vehiclePart = prompt('Name a part from your vehicle.','hyper-truster');
 
-let precious = prompt('Name a previous object.',"oxygen");
+let parking = prompt('Name a location for vehicle to park.','mars');
 
-let noisemaker = prompt('Name something that makes a sound.',"baby");
+let precious = prompt('Name a previous object.','oxygen');
 
-let crowdBehavior = prompt('Name something that people do together as a group.',"complain about their life");
+let noiseMaker = prompt('Name something that makes a sound.','baby');
 
-let adjective2 = prompt('Describe something with an adjective again.',"questionable");
+let crowdBehavior = prompt('Name something that people do together as a group.','complain about their life');
 
-let adjective3 = prompt('Describe something with an adjective the third time.',"annoying");
+let adjective2 = prompt('Describe something with an adjective again.','questionable');
 
-let color = prompt('Name a color.',"black");
+let adjective3 = prompt('Describe something with an adjective the third time.','annoying');
 
-let familyMember = prompt('Name a kind family relationship.',"godfather");
+let color = prompt('Name a color.','black');
 
-let organ = prompt('Name a body organ.',"eyeball");
+let familyMember = prompt('Name a kind family relationship.','godfather');
 
-let bodyPart1 = prompt('Name a bodypart.',"head");
+let organ = prompt('Name a body organ.','eyeball');
 
-let bodyPart2 = prompt('Name another bodypart.',"hand");
+let bodyPart1 = prompt('Name a bodypart.','head');
 
-let bodyPart3 = prompt('Name a third bodypart.',"anus");
+let bodyPart2 = prompt('Name another bodypart.','hand');
 
-let thing = prompt('Name an object.',"computer");
+let bodyPart3 = prompt('Name a third bodypart.','anus');
 
-let thing2 = prompt('Name an object you give to someone you love.',"money");
+let thing = prompt('Name an object.','computer');
 
-let thing3 = prompt('Name an object you give to someone you like.',"cookies");
+let thing2 = prompt('Name an object you give to someone you love.','your heart');
 
-let adjective4 = prompt('Name an adjective to describe your vehicle.',"mysterious");
+let thing3 = prompt('Name an object you give to someone you like.','cookies');
 
-let adjective4 = prompt('Name a final adjective to describe your vehicle.',"sleek");
+let adjective4 = prompt('Name an adjective to describe your vehicle.','mysterious');
 
-let userNumber = prompt('Name your favorite number thats is not zero',8)
+let adjective5 = prompt('Name a final adjective to describe your vehicle.','sleek');
+
+let userNumber = prompt('Name your favorite number thats is not zero.', '8');
 
 let number2 = userNumber + 99;
 
